@@ -7,5 +7,6 @@
 
 - User can search books based on author names
   
-- ![image](https://github.com/adiboy-23/Book-a-pedia---go/assets/123615666/05864e04-06a5-4072-a652-3fecd29123fe)
+- ![image](https://github.com/adiboy-23/Book-a-pedia---go/assets/123615666/d4eac1ba-6512-41f5-aedc-ffc28362903b)
+
 
