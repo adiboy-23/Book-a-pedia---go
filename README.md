@@ -7,4 +7,5 @@
 
 - User can search books based on author names
   
-- ![image](https://github.com/adiboy-23/go-book-search-cli/assets/123615666/19dddb80-8b5c-4960-a1a4-ab45192c9960)
+- ![image](https://github.com/adiboy-23/Book-a-pedia---go/assets/123615666/05864e04-06a5-4072-a652-3fecd29123fe)
+
